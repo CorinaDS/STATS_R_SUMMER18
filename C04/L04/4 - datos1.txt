@@ -1,0 +1,13 @@
+Rendimiento	P	N
+7	No	No
+11	No	No
+13	No	No
+7	Sí	No
+10	Sí	No
+12	Sí	No
+11	No	Sí
+16	No	Sí
+18	No	Sí
+12	Sí	Sí
+16	Sí	Sí
+19	Sí	Sí
