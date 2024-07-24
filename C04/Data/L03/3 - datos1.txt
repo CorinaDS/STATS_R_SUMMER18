@@ -1,0 +1,13 @@
+Rend	Tratamiento	Bloque
+5.45	1	I
+6.55	1	II
+3	1	III
+9.27	1	IV
+8.51	2	I
+6.82	2	II
+6.55	2	III
+8.73	2	IV
+12.27	3	I
+11.24	3	II
+12.27	3	III
+13.64	3	IV
